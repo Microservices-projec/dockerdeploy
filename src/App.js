@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is The Tanish React App!
+          Docker version 3 checking
         </p>
         <a
           className="App-link"
